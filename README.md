@@ -26,7 +26,8 @@ training module. In this exercise you will go over the following:
 
 1. Create a file called `gradle.properties` in the top level directory
 
-2. In it put the line: `org.gradle.console=verbose`
+2. In it replace the line `org.gradle.configuration-cache=true` with
+ `org.gradle.console=verbose`
 
 3. Save the file
 
